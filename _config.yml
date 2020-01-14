@@ -281,7 +281,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _activity_posts
+  # _posts
   - scope:
       path: ""
       type: posts
